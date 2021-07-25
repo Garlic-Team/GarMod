@@ -1,6 +1,6 @@
 # GarMod
-Discord bot kurva nebudu dělat dlouhej popis už sem to tu psal ale někdo ho smazal teď sem jenom nasranej. SERU NA TO
- 
- 
- Udělej si popis klidně sám já ho tu měl
- 
+
+Discord bot with opensource code.
+
+<img src="https://fdn.gsmarena.com/imgroot/news/21/02/youtube-android-4k-playback-option/-1220x526/gsmarena_000.jpg">
+Watch
