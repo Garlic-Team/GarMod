@@ -1,4 +1,4 @@
-# GarMod
+<center># GarMod</center>
 
 Discord bot with opensource code.
 
