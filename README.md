@@ -1,7 +1,7 @@
-<h1 align="center">GarMod
-
-<h3 align="center">Discord bot with opensource! for @everyone</h1>
-
- <img width="200" src="https://garlic-team.github.io/GarMod/sources/youtubebaner.jpg">
-
-Watch us on <a href="https://www.youtube.com/channel/UCEmUyFi5Dh2Hn9vXwkhCbdA">YouTube</a>
+<div align="center">
+    <a href="https://garlic-team.tk"><img src="https://izboxo.cz/garlic.png" height="200" width="200"></a>
+    <h1>GarMod</h1>
+    <strong>GarMod is OpenSource bot.</strong><br><br>
+    <img src="https://garlic-team.github.io/GarMod/sources/open-source.svg" height="30">&nbsp;
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" height="30">&nbsp;
+</div>
