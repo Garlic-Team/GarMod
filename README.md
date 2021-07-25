@@ -1,6 +1,7 @@
 <h1 align="center">GarMod</h1>
 
-Discord bot with opensource code.
+<h3 align="center">Discord bot with opensource! for @everyone</h1>
 
-<img src="https://fdn.gsmarena.com/imgroot/news/21/02/youtube-android-4k-playback-option/-1220x526/gsmarena_000.jpg">
-Watch
+<center><img src="https://garlic-team.github.io/GarMod/sources/youtubebaner.jpg"></center>
+
+Watch us on <a href="https://www.youtube.com/channel/UCEmUyFi5Dh2Hn9vXwkhCbdA">YouTube</a>
