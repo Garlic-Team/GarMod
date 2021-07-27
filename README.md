@@ -4,5 +4,5 @@
     <strong>GarMod is OpenSource bot.</strong><br><br>
     <img src="https://garlic-team.github.io/GarMod/sources/open-source.svg" height="30">&nbsp;
     <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" height="30">&nbsp;
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H05FNRL)&nbsp;
+    <a href="https://ko-fi.com/H2H05FNRL"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="30">&nbsp;
 </div>
