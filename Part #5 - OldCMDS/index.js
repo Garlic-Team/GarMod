@@ -14,7 +14,7 @@ client.on("ready", () => {
            prefix: '.' // for normal commands
         },
         defaultCooldown: 3,
-        database: "mongodb://izboxo:2iDjjV5mfSN7jvGU@cluster0-shard-00-00.t98lq.mongodb.net:27017,cluster0-shard-00-01.t98lq.mongodb.net:27017,cluster0-shard-00-02.t98lq.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-11ckgy-shard-0&authSource=admin&retryWrites=true&w=majority"
+        database: "Your MongoDB url"
         /* DB SUPPORT
          * redis://user:pass@localhost:6379
          * mongodb://user:pass@localhost:27017/dbname
@@ -29,4 +29,4 @@ client.on("ready", () => {
     console.log("Ready")
 })
 
-client.login("ODY2NzMzMjA4MjQ1ODk1MjA4.YPW2Mw.7HRG8MS21lbnzj89JUNkVVSepis")
+client.login("YOur token")
