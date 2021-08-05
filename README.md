@@ -7,4 +7,4 @@
     <a href="https://ko-fi.com/H2H05FNRL"><img src="https://garlic-team.github.io/GarMod/sources/support-ko-fi.svg" height="30">&nbsp;
         <h2>Watch series on YouTube</h2>
         <a href="https://www.youtube.com/channel/UCEmUyFi5Dh2Hn9vXwkhCbdA"><img src="https://garlic-team.github.io/GarMod/sources/watch-on-youtube.svg" height="30">
-            </div>
+        
